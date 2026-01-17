@@ -1,4 +1,9 @@
-# Netflix GPT
+# MOVIE-GPT
+
+## Disclaimer
+This is a demo project created for educational purposes only.
+This project is NOT affiliated with, endorsed by, or connected to Netflix.
+
 
 - Create React App
 - Configured TailwindCSS
@@ -11,6 +16,8 @@
 - Firebase Setup
 - Deploying our app to production
 - Create Signup user account
+- Implement Sign In user Api
+- Created Redux Store with userSlice
 
 
 # Features
@@ -24,6 +31,6 @@
         - Title & Description 
         - MovieSuggestions
             - MovieLists * N
-- NetflixGPT
+- MOVIEGPT
   - Search BAr
   - Movie Suggestions 
