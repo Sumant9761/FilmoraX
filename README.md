@@ -18,6 +18,8 @@ This project is NOT affiliated with, endorsed by, or connected to Netflix.
 - Create Signup user account
 - Implement Sign In user Api
 - Created Redux Store with userSlice
+- Implemented Sign Out
+- Update Profile
 
 
 # Features
