@@ -121,14 +121,14 @@ const Login = () => {
         />
         <p className="text-red-500 font-bold">{errorMessage}</p>
         <button
-          className="p-4 my-6 bg-red-700 w-full rounded-lg"
+          className="p-4 my-6 bg-purple-700 w-full rounded-lg"
           onClick={handleButtonClick}
         >
           {isSignInForm ? "Sign In" : "Sign-Up"}
         </button>
         <p className="py-4 cursor-pointer" onClick={toggleSignInForm}>
           {isSignInForm
-            ? "New to Netflix? Sign Up Now"
+            ? "New to FilmoraX? Sign Up Now"
             : "Already registered? Sign-In Now."}
         </p>
       </form>

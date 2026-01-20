@@ -9,13 +9,13 @@ import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBX-gGe7QD79GVq4P_CgdCQmIAAjZ1EtcE",
-  authDomain: "moviegpt-c2241.firebaseapp.com",
-  projectId: "moviegpt-c2241",
-  storageBucket: "moviegpt-c2241.firebasestorage.app",
-  messagingSenderId: "38213502372",
-  appId: "1:38213502372:web:d845468bdc76dadaf72d31",
-  measurementId: "G-XBXTQDJRMD"
+  apiKey: "AIzaSyAdCxL_iEZEYC2b0tYJhRPY4rkZcuCeUDk",
+  authDomain: "filmorax-a18ca.firebaseapp.com",
+  projectId: "filmorax-a18ca",
+  storageBucket: "filmorax-a18ca.firebasestorage.app",
+  messagingSenderId: "193057775237",
+  appId: "1:193057775237:web:a766c9e314fc90586093ec",
+  measurementId: "G-KP0CZ4R17W"
 };
 
 // Initialize Firebase
