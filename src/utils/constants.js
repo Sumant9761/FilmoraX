@@ -1,7 +1,7 @@
 export const logo =
-  "https://raw.githubusercontent.com/Sumant9761/netflix-gpt/34dd6a620e14ce62b1631bb4d8ca118e6b7cfb22/src/utils/assets/logo.svg";
+  "https://raw.githubusercontent.com/Sumant9761/netflix-gpt/refs/heads/main/src/utils/assets/logo.jpg";
 
-export const USER_AVATAR = "https://raw.githubusercontent.com/Sumant9761/netflix-gpt/refs/heads/main/src/utils/assets/im.jpeg";
+export const USER_AVATAR = "https://raw.githubusercontent.com/Sumant9761/netflix-gpt/refs/heads/main/src/utils/assets/img.jpeg";
 
 export const BACKGROUND_LOGO =
   "https://raw.githubusercontent.com/Sumant9761/netflix-gpt/refs/heads/main/src/utils/assets/background.png";
