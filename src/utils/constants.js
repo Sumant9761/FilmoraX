@@ -1,10 +1,11 @@
 export const logo =
-  "https://raw.githubusercontent.com/Sumant9761/netflix-gpt/refs/heads/main/src/utils/assets/logo.jpg";
+  "https://raw.githubusercontent.com/Sumant9761/FilmoraX/a2d9dcd1bb8077164bf9461be3fa7ba42a8d9424/src/utils/assets/logo.svg";
 
-export const USER_AVATAR = "https://raw.githubusercontent.com/Sumant9761/netflix-gpt/refs/heads/main/src/utils/assets/img.jpeg";
+export const USER_AVATAR =
+  "https://raw.githubusercontent.com/Sumant9761/FilmoraX/refs/heads/main/src/utils/assets/icon.jpeg";
 
 export const BACKGROUND_LOGO =
-  "https://raw.githubusercontent.com/Sumant9761/netflix-gpt/refs/heads/main/src/utils/assets/background.png";
+  "https://raw.githubusercontent.com/Sumant9761/FilmoraX/refs/heads/main/src/utils/assets/background.png";
 
 export const API_OPTIONS = {
   method: "GET",
@@ -16,3 +17,9 @@ export const API_OPTIONS = {
 };
 
 export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w500/";
+
+export const SUPPORTED_LANGUAGES = [
+  { identifier: "en", name: "English" },
+  { identifier: "hindi", name: "Hindi" },
+  { identifier: "spanish", name: "Spanish" },
+];
